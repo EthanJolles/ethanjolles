@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I am currently a senior studying Computer Science at University of Maryland Global Campus
+- 🔭 I graduated class of 2024 from University of Maryland Global Campus
 
-- 🌱 I work as a Test Automation Engineer at Solvd, Inc
+- 🌱 I work as a SDEI @ Amazon Web Serices
 - My [LinkedIn](https://www.linkedin.com/in/ethan-jolles-83626a221/)
 
 <!--
